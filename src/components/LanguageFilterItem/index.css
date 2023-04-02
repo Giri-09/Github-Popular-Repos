@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.button {
+  background-color: transparent;
+  border: none;
+  color: black;
+  font-weight: 600;
+  font-size: 16px;
+  margin: 10px;
+  height: 30px;
+  width: 105px;
+}
+.active {
+  background-color: white;
+  border: 1px #0284c7 solid;
+  height: 40px;
+  width: 105px;
+  color: #0284c7;
+  font-weight: 600;
+  border-radius: 50px;
+}

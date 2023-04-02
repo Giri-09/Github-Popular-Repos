@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.bg {
+  background-color: white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 30px;
+}
+.heading {
+  font-family: 'Lobster';
+  font-weight: 700;
+  font-size: 35px;
+  color: #0f172a;
+}
+.lan-list {
+  display: flex;
+  justify-content: center;
+  padding-left: 0px;
+  list-style-type: none;
+}
+.data-list {
+  display: flex;
+  padding-left: 0px;
+  flex-wrap: wrap;
+}
+.images-fail {
+  height: 200px;
+  width: 200px;
+}
